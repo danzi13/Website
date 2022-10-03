@@ -1,0 +1,108 @@
+.projects{
+    background: black;
+    padding-top: 15px;
+}
+
+.projecthead{
+    color: #00192B;
+    -webkit-text-stroke:  1px;
+    background-color: #7DAFC9;
+    padding-top: 95px;
+    text-align: center;
+    font-size: 50px; 
+    line-height: 3rem;
+    padding-bottom: .5rem;
+    
+}
+
+
+.styling{
+    text-align: center;
+    display: block;
+    
+}
+
+.carousel-caption {
+    position: relative;
+    left: auto;
+    right: auto;
+}
+
+.carousel-item{
+    padding-top: -100px;
+}
+
+.projectbot{
+    background-color: #7DAFC9;
+    padding-bottom: 2rem;
+}
+
+.carousel{
+    padding-top: -100px;
+}
+
+.carousel-inner{
+    height: 525px;
+    background: #7DAFC9;
+}
+
+
+.container{
+    display: block;
+}
+
+.hover:hover{
+    opacity: .7;
+    
+}
+
+.hover:hover .carousel-caption{
+    color: #00192B;
+}
+
+
+.hover{
+    font-size: 200px;
+    color: #00192B;
+    
+}
+
+.hover h3{
+    font-size: 40px;
+    
+}
+
+.hover p{
+    font-size: 20px;
+    max-width: 700px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 300px;
+}
+
+@media (max-width: 500px) {
+    .carousel-inner{
+        height: 625px;
+
+    }
+}
+
+@media (max-width: 400px) {
+    .carousel-inner{
+        height: 675px;
+
+    }
+}
+
+@media (max-width: 683px) {
+    .projecthead{
+        padding-top: 174px;
+    }
+}
+
+

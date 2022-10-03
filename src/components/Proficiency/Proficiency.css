@@ -1,0 +1,220 @@
+.Border{
+    background: black;
+    padding-top: 15px;
+
+}
+
+.Header h1{
+    
+    font-size: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    padding-top: 100px;
+    
+}
+
+.Header h1 h2{
+    font-size: 50px;
+}
+
+.Header h1 h6{
+    font-size: 25px;
+}
+
+.Header h6{
+    color: #7DAFC9;
+}
+
+.Proficiency-List-Lang h1 h2{
+    font-size: 50px;
+}
+
+.Proficiency-List-Lang h1 h6{
+    font-size: 25px;
+    
+}
+
+.Prof-Containers{
+    display: block;
+}
+
+.Proficiency-List-Lang{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex: 1;
+    
+    font-size: 100px;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+
+}
+
+
+.Proficiency-List-Lang h5{
+    font-size: 3rem;
+    font-weight: bold;
+    
+
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    line-height: 2.5rem;
+}
+
+
+.Proficiency-List-Lang p{
+    display: block;
+
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    
+    line-height: 1.6;
+    font-size: 1rem; 
+    max-width: 350px;
+
+}
+
+.Proficiency-List-Lang li{
+    padding-right: 15px;
+    padding-left: 15px;
+
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Proficiency-List-Lang h4{
+    display: none;
+    line-height: 2.5rem;
+    font-size: 30px;
+    color: #7DAFC9;
+}
+
+
+.Proficiency-List-Lang h1{
+    font-size: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100vw;
+    padding-top: 25px;
+    
+}
+
+.Proficiency-List-Lang h6{
+    font-size: 25px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #7DAFC9;
+    
+
+    
+}
+
+.Proficiency-List-Lang h3:hover h4{
+    display: block;
+}
+
+.Proficiency-List-Lang h3:hover h5{
+    display: none;
+}
+
+.Proficiency-List-Lang h2{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Proficiency-List-Skills{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex: 1;
+    
+    font-size: 100px;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+
+}
+
+
+.Proficiency-List-Skills h3{
+    font-size: 3rem;
+    font-weight: bold;
+    
+
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Proficiency-List-Skills p{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    
+    line-height: 1.6;
+    font-size: 1rem; 
+    max-width: 350px;
+
+}
+
+.Proficiency-List-Skills li{
+    padding-right: 15px;
+    padding-left: 15px;
+
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Proficiency-List-Skills h4{
+    display: none;
+    line-height: 1.6;
+    font-size: 30px;
+    color: #7DAFC9;
+}
+
+.Proficiency-List-Skills h1{
+    font-size: 25px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100vw;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.Proficiency-List-Skills h6{
+    font-size: 25px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #7DAFC9;
+    width: 100vw;
+    
+}
+
+.Border2{
+    background: #7DAFC9;
+    padding: 15px;
+}
+
+
+@media (max-width: 683px) {
+    .Header h1{
+        padding-top: 190px;
+    }
+}
+    

@@ -1,0 +1,26 @@
+.Lining{
+        background: black;
+        padding-top: 15px;
+}
+
+.Footer-Container{
+    background-color: #7DAFC9;
+    color: #7DAFC9;
+    margin-left: auto; 
+    margin-right: auto; 
+    text-align: center;
+
+
+
+}
+
+.Comment{
+    color: whitesmoke;
+    padding-bottom: 5px;
+    
+}
+
+.Danzi-navbar-image{
+    width: 45px;
+    padding-top: 5px; 
+}

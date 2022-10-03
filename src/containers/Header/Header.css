@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    font-family: Georgia, Times, 'Times New Roman', serif
+}
+
+.Danzi-header-main{
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    text-align: center;
+    padding-top: 142px; 
+
+    color: white;
+    letter-spacing: .3px;
+}
+
+.about h1{
+    font-size: 50px;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-top: 2rem;
+    
+}
+
+.Danzi-header-image{
+    object-fit: cover;
+    height: 290px;
+    width: 250px;
+    border-radius: 10%;
+    object-position: 50% 0%;
+    object-fit: cover;
+
+    padding: 5px;
+    background-color: white;
+    
+    
+}
+
+.Danzi_header-p{
+    padding-left: 15vw;
+    padding-right: 15vw;
+    padding-top: 30px;
+    font-size: 20px;
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+    
+}
+
+@media (max-width: 683px) {
+    .Danzi-header-main{
+        padding-top: 205px;
+
+    }
+}
+

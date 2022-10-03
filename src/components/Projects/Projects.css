@@ -23,7 +23,7 @@
 }
 
 .carousel-caption {
-    position: relative;
+    position: static;
     left: auto;
     right: auto;
 }
@@ -81,7 +81,7 @@
 }
 
 .carousel-caption {
-    position: absolute;
+    position: static;
     top: 300px;
 }
 
